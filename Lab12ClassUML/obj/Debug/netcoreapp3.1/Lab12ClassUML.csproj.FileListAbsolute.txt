@@ -1,0 +1,13 @@
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.exe
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.deps.json
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.runtimeconfig.json
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.runtimeconfig.dev.json
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.dll
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\bin\Debug\netcoreapp3.1\Lab12ClassUML.pdb
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.csprojAssemblyReference.cache
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.AssemblyInfoInputs.cache
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.AssemblyInfo.cs
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.csproj.CoreCompileInputs.cache
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.dll
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.pdb
+C:\Users\jghal\source\GrandCircus\Lab12ClassUML\Lab12ClassUML\obj\Debug\netcoreapp3.1\Lab12ClassUML.genruntimeconfig.cache
